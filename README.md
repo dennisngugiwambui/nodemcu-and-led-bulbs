@@ -1,4 +1,4 @@
-SOME OF THE CODE
+SOME OF THE COD
 
 ```
 #define LED1 D1
