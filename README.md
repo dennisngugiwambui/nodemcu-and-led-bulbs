@@ -1,5 +1,4 @@
 SOME OF THE CODES
-hjhlkl
 
 ```
 #define LED1 D1
