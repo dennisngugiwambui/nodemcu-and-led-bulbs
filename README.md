@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 SOME OF THE CODES
 
 
